@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <!--
-**yxwang8775/yxwang8775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**numbmelon/numbmelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=yxwang8775)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yxwang8775&count_private=true&show_icons=true&include_orgs=True&role=owner,collaborator)
